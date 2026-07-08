@@ -1,5 +1,8 @@
 
 CC-BY Yamakita et al. 2026 FOSS4G2026 https://arxiv.org/abs/2606.07949
+Feasibility to detect rapid change and disappearance of seagrass: Lessons from nearly 80 years of vegetation change in the Ako, Seto Inland Sea, Japan
+Takehisa Yamakita, Yoji Igarashi, Akira Eto, Ken Ishida, Masaaki Iiyama
+
 
 Recommended reading 
 Yamakita et al. 2019 Application of deep learning techniques for determining the spatial extent and classification of seagrass beds, Trang, Thailand
