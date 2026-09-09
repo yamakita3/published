@@ -1,8 +1,9 @@
 
-CC-BY Yamakita et al. 2026 FOSS4G2026 https://arxiv.org/abs/2606.07949
+CC-BY Yamakita et al. 2026 Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci. 
 Feasibility to detect rapid change and disappearance of seagrass: Lessons from nearly 80 years of vegetation change in the Ako, Seto Inland Sea, Japan
-Takehisa Yamakita, Yoji Igarashi, Akira Eto, Ken Ishida, Masaaki Iiyama
-
+Takehisa Yamakita, Yoji Igarashi, Akira Eto, Ken Ishida, and Masaaki Iiyama
+Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., L-4/W1-2026, 347–354, https://doi.org/10.5194/isprs-archives-L-4-W1-2026-347-2026, 2026
+https://arxiv.org/abs/2606.07949
 
 Recommended reading 
 Yamakita et al. 2019 Application of deep learning techniques for determining the spatial extent and classification of seagrass beds, Trang, Thailand
