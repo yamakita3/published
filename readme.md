@@ -1,4 +1,5 @@
 Data and coords of published materials
+
 *2026FOSS4G_ISPRS：Data used in the Yamakita et al. 2026 Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci
 {Feasibility to detect rapid change and disappearance of seagrass: Lessons from nearly 80 years of vegetation change in the Ako, Seto Inland Sea, Japan
 Takehisa Yamakita, Yoji Igarashi, Akira Eto, Ken Ishida, and Masaaki Iiyama
